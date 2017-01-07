@@ -1,0 +1,20 @@
++===================================+
+| New Account Info                  |
++===================================+
+| Domain: conaceros.com
+| Ip: 207.7.80.63 (n)
+| HasCgi: y
+| UserName: conacero
+| PassWord: %eg]hT*6M(&.
+| CpanelMod: x3
+| HomeRoot: /home
+| Quota: 3000 Meg
+| NameServer1: ns1.webevolution.com.co
+| NameServer2: ns2.webevolution.com.co
+| NameServer3: 
+| NameServer4: 
+| Contact Email: info@juanalejandro.com
+| Package: 3000
+| Feature List: default
+| Language: es
++===================================+
